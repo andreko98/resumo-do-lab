@@ -1,5 +1,5 @@
 # resumo-do-lab
-EN-US: This repository contains a summary of the lessons learned during the development of the lab at DIO.
+EN-US: This repository contains a summary of the lessons learned during the development of the lab at DIO <br>
 PT-BR: Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
 
 EN-US
